@@ -1,14 +1,12 @@
-# Unit 2 | Assignment - The VBA of Wall Street
+# The VBA of Wall Street
 
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+ In this assignment I have been tasked with using VBA scripting to analyze real stock market data. Depending on comfort level with VBA, we were given multiple options of assignment difficulty: Easy, Moderate, or Hard below. I chose to complete the Hard option, including the additional challenge functionality. Explanations of task to be completed at each difficulty level are provided below.
 
 ### Files
 
-* [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
-
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](Multiple_year_stock_data_complete.xlsx) - Macro-Enabled workbook containing the project data and scripts.
 
 ### Stock market analyst
 
@@ -60,22 +58,9 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Other Considerations
 
-* Use the sheet `alphabetical_testing.xlsx` while developing your code. This dataset is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
+* Make sure that the script acts the same on each sheet. 
 
-* Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
-
-## Submission
-
-* To submit please upload the following to Github:
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
 
 - - -
 
-### Copyright
-
-Coding Boot Camp © 2018. All Rights Reserved.
+Omari Blockton, 2019 
